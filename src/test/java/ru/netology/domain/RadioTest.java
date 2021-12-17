@@ -14,12 +14,17 @@ class RadioTest {
     }
 
 
+//    @Test
+//    public void constructorRadioStation() {
+//        Radio radio = new Radio(8, 9, 0);
+//
+//        assertEquals(8, radio.getCurrentRadioStation());
+//
+//    }
+
     @Test
-    public void constructorRadioStation() {
-        Radio radio = new Radio(8, 9, 0);
-
-        assertEquals(8, radio.getCurrentRadioStation());
-
+    public void constructorRadioStationPro() {
+        Radio radio = new Radio(5, 0, 9,true);
     }
 
 
