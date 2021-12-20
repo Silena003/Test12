@@ -20,11 +20,7 @@ public class Radio {
         this.on = on;
     }
 
-//    public Radio(int currentRadioStation, int maxRadioStation, int minRadioStation) {
-//        this.currentRadioStation = currentRadioStation;
-//        this.maxRadioStation = maxRadioStation;
-//        this.minRadioStation = minRadioStation;
-//    }
+
 
 
     public String getName() {
